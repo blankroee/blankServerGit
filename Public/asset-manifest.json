@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f26b4e96.css",
+    "main.js": "/static/js/main.d57ebb92.js",
+    "static/js/787.4473500e.chunk.js": "/static/js/787.4473500e.chunk.js",
+    "static/media/WD2.jpg": "/static/media/WD2.aff2709114c4d55952f8.jpg",
+    "static/media/about.png": "/static/media/about.18fa75f102f5be92b859.png",
+    "static/media/WD-big3.jpg": "/static/media/WD-big3.a36ec6ba8f4de5b7b493.jpg",
+    "static/media/flyerBigMob.jpg": "/static/media/flyerBigMob.6e1894126d3517240f0a.jpg",
+    "static/media/BG.jpg": "/static/media/BG.08391b35e285f0e4c5f3.jpg",
+    "static/media/brandingBigPic.jpg": "/static/media/brandingBigPic.74a00f85078cef5f3dd5.jpg",
+    "static/media/bigPicture1mob2.jpg": "/static/media/bigPicture1mob2.72bbf9d5cca864cebbbd.jpg",
+    "static/media/WD1.jpg": "/static/media/WD1.1d3dbe33a228970d1e32.jpg",
+    "static/media/WD-big2Mob.jpg": "/static/media/WD-big2Mob.dd5c4a2dcb56be4a5769.jpg",
+    "static/media/darkBG.jpg": "/static/media/darkBG.b6eafb15ec15b5a2c570.jpg",
+    "static/media/bigPicture1.jpg": "/static/media/bigPicture1.893a69edae660a99145e.jpg",
+    "static/media/mainHomeBG2Mob.jpg": "/static/media/mainHomeBG2Mob.aadfcc6c51ca973e840d.jpg",
+    "static/media/flyerBig.jpg": "/static/media/flyerBig.5c5452dd4003101317df.jpg",
+    "static/media/mainHomeBG2.jpg": "/static/media/mainHomeBG2.f1f5482f8c414f540def.jpg",
+    "static/media/WD3.jpg": "/static/media/WD3.f6f5063605ba80c557c4.jpg",
+    "static/media/brandingBigPicMob.jpg": "/static/media/brandingBigPicMob.eec03c91a772987fc03d.jpg",
+    "static/media/WD4.jpg": "/static/media/WD4.469140d21110c9b699de.jpg",
+    "static/media/darkBGbig.jpg": "/static/media/darkBGbig.acc8253cf09fe04f8ca4.jpg",
+    "index.html": "/index.html",
+    "main.f26b4e96.css.map": "/static/css/main.f26b4e96.css.map",
+    "main.d57ebb92.js.map": "/static/js/main.d57ebb92.js.map",
+    "787.4473500e.chunk.js.map": "/static/js/787.4473500e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26b4e96.css",
+    "static/js/main.d57ebb92.js"
+  ]
+}
